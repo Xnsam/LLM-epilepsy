@@ -1,0 +1,6 @@
+transformers
+scikit-learn
+keras
+wordcloud
+nltk
+spacy
